@@ -1,0 +1,53 @@
+
+.form,.heading,.contacts{
+    text-align: center;
+}
+
+li{
+    float: left;
+    padding: 40px;
+}
+ul{
+    padding-bottom: 90px;
+    list-style-type: none;
+    background-color: darkgray;
+    margin: 0;
+    padding-left: 0;
+}
+/*.heading,.form,.contacts{*/
+/*    background-color: aqua;*/
+/*}*/
+body{
+    background-color: aqua;
+}
+h2{
+    font-family: cursive;
+    font-size: 40px;
+}
+.form{
+     background-color: darkcyan;
+    border-radius: 7px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 400px;
+    margin-left: 400px;
+}
+label{
+    display: block;
+    font-weight: bolder;
+}
+button{
+    background-color: #2a8ea5;
+    color: blanchedalmond;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+li a:hover{
+    background-color: white;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}

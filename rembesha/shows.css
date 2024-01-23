@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+ul{
+    list-style-type: none;
+    padding-bottom: 90px;
+    background-color: darkgray;
+    margin: 0;
+}
+li{
+    float: left;
+    padding: 40px;
+}
+h2{
+    font-size: 40px;
+    font-family: cursive;
+}
+p{
+    font-family: AnjaliOldLipi;
+}
+li a:hover{
+    background-color: white;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
